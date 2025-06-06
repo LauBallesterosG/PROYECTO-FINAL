@@ -13,3 +13,4 @@ Imagen de portada con el logo, información de los estudiantes y nombre del proy
 Se utilizó python en VSC.
 "clear", "load", "pause", "play", "reset" y "save"; corresponden a los iconos utilizados para las diferentes funciones que tiene el tablero.
 "main" y "operación", corresponden al código del proyecto.
+## 7. Ignorar el archivo "Implementación.ipynb"
